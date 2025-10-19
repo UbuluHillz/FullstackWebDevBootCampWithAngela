@@ -1,0 +1,2 @@
+Image tag <img/> is also a void element
+with source attribute "src", which can be a url link or image path to the local directory of the image eg. <img src="https://picsum.photos/id/7/200/300" alt="college interns"/>

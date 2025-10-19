@@ -1,0 +1,2 @@
+Anchor Tag: <a></a>
+This tag goes with an attribute href="{site link}" which direct your the URL of the site you want to open, which can also have multiple attributes like "target="{_blank...etc,}"" which direct it where to open the site. It can also have attribute called draggable="true" which makes the site link relatively draggable. 
